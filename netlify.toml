@@ -1,0 +1,3 @@
+[build]
+	command = "bun install --no-frozen-lockfile && bun run build"
+	publish = "build"
