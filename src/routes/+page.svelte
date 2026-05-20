@@ -120,7 +120,7 @@
           </span>
           <hr class="border border-fg grow shadow-under">
           <a href="https://deltea.space">
-            By deltea
+            Made by tushal
           </a>
         </h2>
       </div>
